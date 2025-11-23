@@ -59,6 +59,7 @@ Create a `.env` file in the `exxon` directory:
 ```
 OPENROUTER_API_KEY=your_openrouter_api_key
 EXXON_DB_URL=mysql+pymysql://user:password@host:port/dbname
+MYSQL_URL=mysql://user:pass@localhost:port/dbname
 ```
 
 ### Setup
