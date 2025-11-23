@@ -55,7 +55,7 @@ A modular FastAPI project for a chatbot using OpenRouter (OpenAI-compatible API)
 - `POST /chatbot/db-ask` — Ask about your database (LangChain SQL + OpenRouter, uses chat history from MySQL)
 
 ### Environment Variables
-Create a `.env` file in the `exxon` directory:
+Create a `.env` file in the `ิbackend` directory:
 ```
 OPENROUTER_API_KEY=your_openrouter_api_key
 EXXON_DB_URL=mysql+pymysql://user:password@host:port/dbname
