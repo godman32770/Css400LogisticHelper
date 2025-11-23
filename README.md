@@ -11,7 +11,7 @@ This project consists of two main parts:
 
 ```
 /frontend   # Frontend (Next)
-/exxon                 # Backend (FastAPI, MySQL, LangChain)
+/backend                 # Backend (FastAPI, MySQL, LangChain)
 ```
 
 ---
@@ -39,7 +39,7 @@ A modern React-based web UI for interacting with the chatbot and warehouse syste
 
 ---
 
-## Backend: exxon
+## Backend: 
 
 A modular FastAPI project for a chatbot using OpenRouter (OpenAI-compatible API) and MySQL, with LangChain-powered SQL chat and retrieval-augmented memory.
 
