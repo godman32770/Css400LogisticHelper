@@ -3,7 +3,7 @@
 This project consists of two main parts:
 
 - **LogisticWarehouseUI**: The frontend web application (React + Vite)
-- **exxon**: The backend API (FastAPI, OpenRouter, MySQL, LangChain)
+- **backend**: The backend API (FastAPI, OpenRouter, MySQL, LangChain)
 
 ---
 
